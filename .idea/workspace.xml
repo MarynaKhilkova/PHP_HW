@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a25a54-61af-45eb-9a12-3ca59f287047" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="a8a25a54-61af-45eb-9a12-3ca59f287047" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/OSPanel/domains/PHP_HW.ru",
+    "last_opened_file_path": "C:/OSPanel/domains/PHPHW.ru",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1689519074919</updated>
       <workItem from="1689519075924" duration="1547000" />
-      <workItem from="1689520987866" duration="185000" />
+      <workItem from="1689521175692" duration="101000" />
+      <workItem from="1689521312459" duration="9580000" />
     </task>
     <servers />
   </component>
