@@ -51,5 +51,3 @@ function deleteWord($word, $str) {
 } // удаляем второе слово исходной строки и лищний пробел
 echo deleteWord($word, $str); // выводим результат
 echo "<br/>";
-
-
